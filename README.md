@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Grbak/lab06.svg?branch=master)](https://travis-ci.org/Grbak/lab06)
+[![Build Status](https://travis-ci.org/Grbak/lab07.svg?branch=master)](https://travis-ci.org/Grbak/lab07)
 
 ## Laboratory work III
 
