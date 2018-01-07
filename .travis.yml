@@ -6,6 +6,7 @@ script:
 - cmake --build _build --target install
 - cmake --build _build --target test
 
+
 addons:
   apt:
     sources:
